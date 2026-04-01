@@ -1,0 +1,13 @@
+*{
+
+    background-color: black;
+}
+
+#cvs{
+    position: absolute;
+    background-color: black;
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    left: 30%;
+}
