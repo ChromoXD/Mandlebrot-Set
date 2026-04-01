@@ -2,4 +2,4 @@
 
 ---
 
-Very First render of mandelbrotset in HTML, CSS, and JS
+My Very First render of The Mandelbrot set in HTML, CSS, and JS
